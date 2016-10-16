@@ -1,5 +1,5 @@
 # meizi
-> Node.js 图片爬虫
+Node.js 图片爬虫
 ![meizi.gif](https://github.com/ihanyang/meizi/blob/master/meizi.gif?raw=true)
 
 ## Required
