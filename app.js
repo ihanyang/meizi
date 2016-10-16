@@ -38,9 +38,6 @@ const getMeiziInfo = (url) => {
 				return title.replace("</a", "").replace(">", "")
 			})
 
-			urls = urls.slice(0, 1)
-			titles = titles.slice(0, 1)
-
 			console.log()
 			console.log(` 分析完成~~ 共有${urls.length}种类型的妹纸等待捕获~~`)
 			console.log()
